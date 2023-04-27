@@ -11,11 +11,16 @@
 - Python, Flask
 - Java, Spring, Springboot
 - Javascript(es6↑), Node.js, Vue.js
-- Deep Learning : Tensorflow
-- DB : SQL, NOSQL
-- DevOps : Docker, Dockerfile
-- Scripting & Automation: Shell Script
-- Operating Systems: Linux
+- Deep Learning
+  - Tensorflow
+- DB 
+  - SQL, NOSQL
+- DevOps
+  - Docker, Dockerfile
+- Scripting & Automation
+  - Shell Script, cmd
+- Operating Systems
+  - Linux
 
 ## ✨포트폴리오
 ### 데이터 사이언스
