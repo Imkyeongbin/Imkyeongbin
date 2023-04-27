@@ -7,7 +7,7 @@
 - 기존의 웹 솔루션 개발하여 납품 경험 있음.
 - 스택오버플로우를 사용할 정도의 IT영어 능력은 있음(20230426 현재, 스오플 포인트 347) : https://stackoverflow.com/users/16527606/niddddddfier
 
-🛠 보유 스킬
+#### 🛠 보유 스킬
 - Python, Flask
 - Java, Spring, Springboot
 - Javascript(es6↑), Node.js, Vue.js
