@@ -27,7 +27,7 @@
 ### 데이터 사이언스
 :raising_hand: CV - 얼굴 동일인 판별 및 성별 판별 프로그램 작성
 
-=> https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4](https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4
+=> [https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4](https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4)
 
 #### 웹 개발자 포트폴리오
 :bar_chart: OCR Agent 웹 UI
