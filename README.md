@@ -12,10 +12,14 @@
   - Python, Flask
   - Java, Spring, Springboot
   - Javascript(es6↑), Node.js, Vue.js
+- Machine Learning
+  - Scikit-learn(Xgboost)
 - Deep Learning
   - Tensorflow
+  - CV
+    - yolo v5
 - DB 
-  - SQL, NOSQL
+  - SQL(Oracle SQL, Mysql, MariaDB, PostgreSQL), NOSQL(MongoDB)
 - DevOps
   - Docker, Dockerfile
 - Scripting & Automation
