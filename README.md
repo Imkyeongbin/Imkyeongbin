@@ -5,7 +5,7 @@
 - 약간의 완벽주의자 경향으로 UI/UX를 고려하여 눈에 잘 띄지 않는 버그에 대해서도 고민하면서 개발함
 - 몰입 능력이 뛰어나서 시간 가는 줄 모르고 개발함. 한번에 프로젝트를 완성은 못해도 모듈 기능 하나 함수라도 완성을 해야 직성이 풀리는 성향.
 - 기존의 웹 솔루션 개발하여 납품 경험 있음.
-- 스택오버플로우를 사용할 정도의 IT영어 능력은 있음(20230804 현재, 스오플 포인트 377) : https://stackoverflow.com/users/16527606/niddddddfier
+- 스택오버플로우를 사용할 정도의 IT영어 능력은 있음(20230817 현재, 스오플 포인트 387) : https://stackoverflow.com/users/16527606/niddddddfier
 
 #### 🛠 보유 스킬
 - Langauge and Frameworks
@@ -13,11 +13,12 @@
   - Java, Spring, Springboot
   - Javascript(es6↑), Node.js, Vue.js
 - Machine Learning
-  - Scikit-learn(Xgboost)
+  - Scikit-learn(tree, Xgboost)
 - Deep Learning
   - Tensorflow
   - CV
-    - yolo v5
+    - yolo v5 - object detection
+    - face detection/comparation/gender check
 - DB 
   - SQL(Oracle SQL, Mysql, MariaDB, PostgreSQL), NOSQL(MongoDB)
 - DevOps
