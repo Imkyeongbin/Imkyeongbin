@@ -34,11 +34,6 @@
 
 => [https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4](https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4)
 
-#### 웹 개발자 포트폴리오
-:bar_chart: OCR Agent 웹 UI - 다만 회사 실제 홈페이지라, 로그인 이상 접근하지 못할 것입니다.
-
-=> http://cloudocr.smartisoft.net:15020
-
 ---
 #### :bookmark_tabs: 코드스테이츠 AI부트캠프 학습 내역
 
