@@ -9,7 +9,7 @@
 
 #### 🛠 보유 스킬
 - Langauge and Frameworks
-  - Python, Flask
+  - Python, Pandas, Flask
   - Java, Spring, Springboot
   - Javascript(es6↑), Node.js, Vue.js
 - Machine Learning
