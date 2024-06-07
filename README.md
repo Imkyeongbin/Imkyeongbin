@@ -9,16 +9,16 @@
 
 #### 🛠 보유 스킬
 - Langauge and Frameworks
-  - Python, Pandas, Flask
-  - Java, Spring, Springboot
-  - Javascript(es6↑), Node.js, Vue.js
+  - Python => Pandas, Flask
+  - Java => Spring, Springboot
+  - Javascript(es6↑) => Node.js, Vue.js
 - Machine Learning
-  - Scikit-learn(tree, Xgboost)
+  - Scikit-learn => tree, Xgboost
 - Deep Learning
   - Tensorflow
   - CV
     - yolo v5 - object detection
-    - face detection/comparation/gender check
+    - face detection/comparation/gender check with VGG
 - DB 
   - SQL(Oracle SQL, Mysql, MariaDB, PostgreSQL), NOSQL(MongoDB)
 - DevOps
