@@ -32,7 +32,7 @@
 ### 데이터 사이언스
 :raising_hand: CV - 얼굴 동일인 판별 및 성별 판별 프로그램 작성
 
-=> [https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4](https://www.notion.so/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80?pvs=4)
+=> [https://speckled-bite-094.notion.site/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80]
 
 ---
 #### :bookmark_tabs: 코드스테이츠 AI부트캠프 학습 내역
