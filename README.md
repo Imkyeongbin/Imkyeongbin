@@ -34,7 +34,7 @@
 
 => [https://speckled-bite-094.notion.site/S6-Project-2-fd8f54ba48794cccaccff8cadc2f8d80]
 
-webapp(frontend Vue.js, backend Flask) => [https://innoreed26.crabdance.com/]
+webapp(frontend Vue.js, backend Python Flask) => [https://innoreed26.crabdance.com/]
 
 ---
 #### :bookmark_tabs: 코드스테이츠 AI부트캠프 학습 내역
